@@ -1,6 +1,7 @@
 # Predicting-hotel-booking-cancellations
 
-Probelem statement
+Probelem statement:
+
 Hotel industry is one of the fastest growing businesses of tourism sector. Hotel bookings have risen dramatically since the arrival of giant online booking services, making it easier than ever to book a hotel. However, the growing trend of the hotel industry comes with problems too, one of the problems is the rising rate of cancellation in the hotel industry. Globally, on an average there is 40% cancellation in hotel bookings every year.
 
 As a result of this cancellation trend, the hotel is unable to accurately forecast occupancy within their revenue management system, and it is also causing opportunity costs to be lost. This project includes building an ideal model to predict the cancellation of a hotel booking along with information on the factors that have a high impact on hotel booking cancellation. This prediction from the model will be beneficial to the hotel management team in managing their operational strategies and to be prepared when there is a cancellation so that there are no surprises.
